@@ -102,8 +102,6 @@ Global-AI-Adoption-Workforce-Transformation/
 
 ```
 
-Add the PBIX file, screenshots and any permitted supporting files to the repository. Do not upload source datasets unless their licences allow redistribution.
-
 ## 👩‍💻 Author
 
 **Swara Salunkhe**
