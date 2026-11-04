@@ -104,9 +104,8 @@ Add the PBIX file, screenshots and any permitted supporting files to the reposit
 
 ## 👩‍💻 Author
 
-**Data Analytics Portfolio Project**
-
-🛠️ Developed using Microsoft Power BI.
+**Swara Salunkhe**
+📍 Mumbai, India
 
 ---
 
