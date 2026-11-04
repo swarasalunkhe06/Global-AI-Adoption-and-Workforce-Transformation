@@ -98,9 +98,7 @@ Global-AI-Adoption-Workforce-Transformation/
 │   ├── reskilling.png
 │   └── insights.png
 └── data/
-    ├── 
-    ├──
-    └── 
+    └── dataset.zip
 
 ```
 
