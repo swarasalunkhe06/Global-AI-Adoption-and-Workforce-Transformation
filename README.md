@@ -92,11 +92,15 @@ Global-AI-Adoption-Workforce-Transformation/
 ├── README.md
 ├── Global_AI_Adoption_Workforce_Impact.pbix
 ├── screenshots/
-   ├── overview.png
-   ├── adoption.png
-   ├── business-impact.png
-   ├── reskilling.png
-   └── insights.png
+│   ├── overview.png
+│   ├── adoption.png
+│   ├── business-impact.png
+│   ├── reskilling.png
+│   └── insights.png
+└── data/
+    ├── 
+    ├──
+    └── 
 
 ```
 
